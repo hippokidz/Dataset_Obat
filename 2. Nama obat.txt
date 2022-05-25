@@ -1,0 +1,15 @@
+- Loperamide = obat diare
+- Paracetamol = obat panas
+- Flucadex = flu seperti batuk, demam, hidung tersumbat, pilek, dan bersin
+- Cetirizine = anti biotik alergi
+
+metode pelatihan citra:
+1. melakukan convolution layer
+2. melakukan subsampling dengan menggunakan avaragePooling atau maxPooling
+3. menggunakan fully connected layer
+
+--Average Pooling mengambil rata-rata dari masing" piksel, lalu diubah ke matrik 2x2
+
+
+https://www.kaggle.com/code/pnkjgpt/multiclass-image-classification-transfer-learning
+https://www.kaggle.com/code/theeyeschico/vegetable-classification-using-transfer-learning
